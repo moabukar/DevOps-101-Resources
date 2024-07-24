@@ -4,6 +4,7 @@
 
 - [Automate the Boring Stuff with Python Programming - PAID - RECOMMENDED](https://www.udemy.com/course/automate/)
 - [COMPLETE PYTHON BOOTCAMP - PAID - SUPPLEMENTARY](https://www.udemy.com/course/complete-python-bootcamp/)
+- [100 Days of Code: The Complete Python Pro Bootcamp- PAID- SUPPLEMENTARY](https://www.udemy.com/course/100-days-of-code)
 - [Learn Python - Full Course for Beginners Tutorial - FREE - RECOMMENDED](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI)
 
